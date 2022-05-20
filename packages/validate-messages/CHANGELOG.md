@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.9.1
+
+### Patch Changes
+
+- Updated dependencies [33fd1bef]
+- Updated dependencies [d382887e]
+  - @lion/form-core@0.18.0
+  - @lion/input-tel@0.1.3
+
 ## 0.9.0
 
 ### Minor Changes

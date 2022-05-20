@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.18.0
+
+### Minor Changes
+
+- 33fd1bef: remove name property check on lion field for forward compatibility with Form participation api
+
 ## 0.17.1
 
 ### Patch Changes
